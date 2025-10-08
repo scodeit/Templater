@@ -46,7 +46,7 @@
     "dependencies": {
         "@codemirror/language": "github:lishid/cm-language",
         "@codemirror/state": "^6.1.2",
-        "@codemirror/view": "^6.4.1",
+        "@codemirror/view": "^6.38.2",
         "@microsoft/tsdoc": "^0.15.1",
         "@popperjs/core": "^2.11.6",
         "@silentvoid13/rusty_engine": "^0.4.0",
